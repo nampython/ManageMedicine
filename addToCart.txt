@@ -1,0 +1,5 @@
+1, vaxcincovid2019, USA, 2022, VND 2000
+1, vaxcincovid2019, USA, 2022, VND 2000
+9, new, laos, 2050, VND24242, 23
+9, new, laos, 2050, VND24242, 23
+1, Thuocbo, VietNam, 2030, VND 9000
